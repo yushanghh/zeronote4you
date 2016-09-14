@@ -1,0 +1,12 @@
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\bin\Debug\ForYou.translate.exe.config
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\bin\Debug\ForYou.translate.exe
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\bin\Debug\ForYou.translate.pdb
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\obj\Debug\ForYou.translate.csprojResolveAssemblyReference.cache
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\obj\Debug\ForYou.translate.exe
+D:\zeronote4you\pc\ForYou\ForYou\ForYou.translate\obj\Debug\ForYou.translate.pdb
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\bin\Debug\ForYou.translate.exe.config
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\bin\Debug\ForYou.translate.exe
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\bin\Debug\ForYou.translate.pdb
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\obj\Debug\ForYou.translate.csprojResolveAssemblyReference.cache
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\obj\Debug\ForYou.translate.exe
+C:\Users\chenmeng\Desktop\ForYou2\ForYou\ForYou.translate\obj\Debug\ForYou.translate.pdb
